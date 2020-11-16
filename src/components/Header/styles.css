@@ -1,0 +1,23 @@
+header {
+  background: brown;
+  height: 80px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-family: 'Syne Mono', monospace;
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.links a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  margin-right: 20px;
+}

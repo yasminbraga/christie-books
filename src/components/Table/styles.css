@@ -1,0 +1,21 @@
+.table {
+  width: 100%;
+  background: rgba(255, 250, 205, 0.3);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.table td, th {
+  padding: 10px;
+}
+
+.table th {
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: #545454;
+}
+
+.table td {
+  color: #706f6f;
+}
